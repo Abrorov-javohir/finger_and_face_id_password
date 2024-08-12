@@ -1,6 +1,5 @@
 import 'package:finger_and_face_id_password/bloc/game_cubit.dart';
 import 'package:finger_and_face_id_password/screens/bio_metric_auth_page.dart';
-import 'package:finger_and_face_id_password/screens/game_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
